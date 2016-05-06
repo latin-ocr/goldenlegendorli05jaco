@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./goldenlegendorli05jaco/goldenlegendorli05jaco_0005.png"; bbox 0 0 1633 2805; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 486 581 1009 897">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 486 581 1009 897">
+     <span class='ocr_line' id='line_1_1' title="bbox 631 581 847 645; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 631 581 847 645; x_wconf 92' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 534 707 960 771; baseline -0.007 0"><span class='ocrx_word' id='word_1_2' title='bbox 534 707 960 771; x_wconf 89' lang='lat' dir='ltr'><strong>TEMPLE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 486 832 1009 897; baseline -0.006 0"><span class='ocrx_word' id='word_1_3' title='bbox 486 832 1009 897; x_wconf 86' lang='lat' dir='ltr'>CLASSICS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 634 1082 869 1444">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 634 1082 869 1444">
+     <span class='ocr_line' id='line_1_4' title="bbox 634 1082 869 1444; baseline 0 1361"><span class='ocrx_word' id='word_1_4' title='bbox 634 1082 869 1444; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 257 1601 1238 1657">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 257 1601 1238 1657">
+     <span class='ocr_line' id='line_1_5' title="bbox 257 1601 1238 1657; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 257 1602 437 1656; x_wconf 89' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_6' title='bbox 484 1601 831 1656; x_wconf 89' lang='lat' dir='ltr'>GOLDEN</span> <span class='ocrx_word' id='word_1_7' title='bbox 884 1601 1238 1657; x_wconf 86' lang='lat' dir='ltr'>LEGEND</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 498 1753 1004 1939">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 498 1753 1004 1939">
+     <span class='ocr_line' id='line_1_6' title="bbox 585 1753 917 1820; baseline -0.003 -13"><span class='ocrx_word' id='word_1_8' title='bbox 585 1753 807 1808; x_wconf 83' lang='lat' dir='ltr'>Edited</span> <span class='ocrx_word' id='word_1_9' title='bbox 841 1753 917 1820; x_wconf 88' lang='lat' dir='ltr'>by</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 498 1883 1004 1939; baseline -0.004 -1"><span class='ocrx_word' id='word_1_10' title='bbox 498 1884 565 1939; x_wconf 87' lang='lat' dir='ltr'>F.</span> <span class='ocrx_word' id='word_1_11' title='bbox 618 1884 679 1939; x_wconf 89' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_12' title='bbox 733 1883 1004 1937; x_wconf 87' lang='lat' dir='ltr'>ELLIS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
